@@ -62,7 +62,7 @@
                                 	<h2>Contáctenos</h2>
                                     <ul class="list-style-one style-two">
                                 
-                                        <li class="color-negro"><a  class="color-negro" href="tel:+570313106093"><span class="icon icon-blanco fa fa-phone"></span> 57 (1) 3106093</a></li>
+                                        <li class="color-negro"><a  class="color-negro" href="tel:+570313106093"><span class="icon icon-blanco fa fa-phone"></span> (601) 3106093</a></li>
                                         <li class="color-negro"><a class="color-negro"href="tel:+573143612092"><span class="icon fas fa-mobile-alt"></span>314 361 2092</a></li>    
                                         <li class="color-negro"><a class="color-negro"href="mailto:grrfincaraiz@yahoo.com"><span class="icon icon-blanco fa fa-envelope-o"></span> grrfincaraiz@yahoo.com</a></li>
                                         <li class="color-negro"><span class="icon icon-blanco fa fa-map-marker"></span> Carrera 10 # 73 - 20 Oficina 102 Bogotá</li>

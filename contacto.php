@@ -98,7 +98,7 @@ include 'include/header.php'; ?>
                         <div class="text"></div>
                         <ul class="list-style-one">
                             <li><span class="icon blanco fas fa-map-marker-alt "></span><a  style="color:inherit;">Carrera 10 # 73 - 20 Oficina 102 Bogotá</a></li>
-                            <li><span class="icon blanco fas fa-phone"></span><a href="tel:+570313260861" style="color:inherit;">57 (1) 3106093</a></li>
+                            <li><span class="icon blanco fas fa-phone"></span><a href="tel:+570313260861" style="color:inherit;">(601) 3106093</a></li>
                             <li><span class="icon blanco fas fa-mobile-alt"></span><a href="tel:+573143612092" style="color:inherit;">314 361 2092</a></li>
                             <li><a href="mailto:grrfincaraiz@yahoo.com"><span class="icon blanco fa fa-envelope-o"></span> grrfincaraiz@yahoo.com</li></a>
                             <li><span class="icon blanco fa fa-clock-o"></span>Lunes a Viernes de 8:30 am a 12:30 pm y de 2:00 pm a 5:30 pm</li>

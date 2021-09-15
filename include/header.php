@@ -58,7 +58,7 @@
                             </ul>
                         </div>
                         <ul class="number">
-                            <li><span class="icon fas fas fa-phone"></span><a href="tel:+570313260861" style="color:inherit;">57 (1) 3106093</a></li>
+                            <li><span class="icon fas fas fa-phone"></span><a href="tel:6013106093" style="color:inherit;">(601) 3106093</a></li>
                         </ul>
                     </div>
                 </div>
@@ -145,7 +145,7 @@
                                 </ul>
                             </div>
                             <ul class="number">
-                                <li><span class="icon fas fa-phone"></span><a href="tel:+570313260861" style="color:inherit;">57 (1) 3106093</a></li>
+                                <li><span class="icon fas fa-phone"></span><a href="tel:6013106093" style="color:inherit;">(601) 3106093</a></li>
                             </ul>
                         </div>
 
